@@ -2,3 +2,5 @@ first commit in to git
 changed something again
 
 last trial 
+
+and one more time but this time rebase
