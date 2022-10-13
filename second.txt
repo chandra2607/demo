@@ -1,9 +1,1 @@
-
-
-we modified this file in  branchCA
-
-
-pushing branchC first into git and creating 
-pull reauest without merging and based on that we will make some changes in new
-branch branchCA and push them and merge with branch C and see what happens with that? 
-
+this file was modified in the branchCA
