@@ -1,1 +1,2 @@
 created from branchABC which depends on branchAB
+some things modified
